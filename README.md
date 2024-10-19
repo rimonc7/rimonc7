@@ -32,20 +32,13 @@
 
 ### Tools
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-plain.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Adobe Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Pixso" width="26px" src="https://pixso.io/static/imgs/favicon.png" style="padding-right:10px;" />
+<img align="left" alt="ClickUp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/ClickUp_Logo.png" style="padding-right:10px;" />
 
 <!-- Development Tools -->
-<img align="left" alt="MYSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
