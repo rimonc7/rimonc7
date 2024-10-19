@@ -5,10 +5,14 @@
 </div>
 <p align="center">I'm a Junior Web Developer with a strong coding foundation<br/>7 years of experience as an SEO and Local SEO Specialist, helping businesses boost their online visibility.<br></p><br/>
 
+<div align="center">
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimonchowdhuryy)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rimonc7)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rimonc7)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/rimonseo)
+</div>
+
+
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/opuu/opuu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
