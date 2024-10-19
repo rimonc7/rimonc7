@@ -1,8 +1,4 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Abdul Bsaet Bappy</h1></summary>
-  </ul>
-</div>
+
 <!--Center Subtitle-->
 <p align="center">I'm a Junior developer.<br/>I specialize in Web-Development<br> I also love writing Tech-blogs, Search Engine Optimization etc.<br></p><br/>
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimonchowdhuryy)
