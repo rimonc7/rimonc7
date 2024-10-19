@@ -33,7 +33,7 @@
 ### Tools
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pixso" width="80px" src="https://cms.pixso.net/images/px-logo.png" style="padding-right:10px;" />
-<img align="left" alt="ClickUp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/ClickUp_Logo.png" style="padding-right:10px;" />
+<img align="left" alt="ClickUp" width="26px" src="https://clickup.com/assets/brand/logo-v3-clickup-light.svg" style="padding-right:10px;" />
 
 <!-- Development Tools -->
 
