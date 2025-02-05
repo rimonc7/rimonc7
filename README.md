@@ -2,47 +2,109 @@
   <img src="https://i.ibb.co.com/CpLyKtHw/github-header-image-1.png" alt="GitHub Header Image" />
 </div>
 
+# Hi 👋, I'm Rimon Chowdhury
+
+### 🏗️ Junior Web Developer | SEO & Local SEO Specialist  
+
+I have a strong coding foundation and a passion for web development. With 7 years of experience in SEO and Local SEO, I specialize in boosting online visibility for businesses. I'm always eager to explore new technologies and enhance my skills.
+
+---
+
+## 🚀 About Me  
+- 🔭 I’m currently working on **modern web development projects**  
+- 🌱 Exploring **Next.js, API integrations, and backend development**  
+- 💡 Passionate about **responsive web design** and **SEO optimization**  
+- ⚡ Constantly improving my **MERN Stack (MongoDB, Express, React, Node.js)** skills  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Frontend  
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+
+<br/>
+<br/>
+
+### 🔙 Backend  
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+
+<br/>
+<br/>
+
+### ⚙️ Tools & Platforms  
+<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
+
+<br/>
+<br/>
+
+---
+
+## 🌐 Connect with Me  
 <div align="center">
-  <h1>Hi 👋, I'm Rimon Chowdhury</h1>
-  <h2>Frontend Developer</h2>
-</div>
-
-<p align="center">
-I'm a Junior Web Developer with a strong coding foundation.<br/>
-I have 7 years of experience as an SEO and Local SEO Specialist, helping businesses boost their online visibility.
-</p>
-
-<div align="center">
-
+  
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimonchowdhuryy)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rimonc7)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rimonc7)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+880768885113)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimonc7@gmail.com)
 
 </div>
 
 ---
 
-### 🛠️ Languages
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
+## 📊 GitHub Stats  
 
-<br/>
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rimonc7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimonc7&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimonc7&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-### 🚀 Frameworks
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
-<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
+---
 
-<br/>
-<br/>
+## 📌 Pinned Repositories  
 
-### ⚡ Tools
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pixso" width="26px" src="https://cms.pixso.net/images/about/pixso-logo.svg" style="padding-right:10px;" />
-<img align="left" alt="ClickUp" width="26px" src="https://clickup.com/images/for-se-page/clickup.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
+### 1️⃣ **[Portfolio Website](https://github.com/rimonc7/portfolio-website)**  
+🔹 A sleek and responsive personal portfolio showcasing my projects and skills.  
+🔗 **Live Demo:** [View Project](https://rimonc7.github.io/portfolio-website)  
+🛠️ **Tech Used:** React, Tailwind CSS, JavaScript  
 
+### 2️⃣ **[SEO Dashboard](https://github.com/rimonc7/seo-dashboard)**  
+🔹 A custom-built SEO analytics dashboard for monitoring website performance.  
+🔗 **Live Demo:** [View Project](https://rimonc7.github.io/seo-dashboard)  
+🛠️ **Tech Used:** Next.js, Chart.js, API Integrations  
+
+### 3️⃣ **[Travel Blog Website](https://github.com/rimonc7/travel-blog)**  
+🔹 A responsive blog website for travelers to share their experiences.  
+🔗 **Live Demo:** [View Project](https://rimonc7.github.io/travel-blog)  
+🛠️ **Tech Used:** WordPress, HTML, CSS, JavaScript  
+
+---
+
+## 📂 Repository README Guidelines  
+
+Each repository includes:  
+✅ A concise project overview  
+✅ A clean project screenshot  
+✅ A list of main technologies used  
+✅ Highlighted core features  
+✅ Dependencies listed  
+✅ A step-by-step guide to running the project locally  
+✅ Live project links and additional resources  
+
+---
+
+### Thanks for stopping by! Happy Coding! 🚀✨  
