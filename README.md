@@ -4,6 +4,7 @@
 
 <div id="user-content-toc" align="center">
   <h1>Hi 👋, I'm Rimon Chowdhury</h1>
+  <h2>Frontend Developer</h2>
 </div>
 
 <p align="center">
