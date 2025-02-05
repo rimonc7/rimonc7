@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/CpLyKtHw/github-header-image-1.png" alt="GitHub Header Image" />
 </div>
 
-<div id="user-content-toc" align="center">
+<div align="center">
   <h1>Hi 👋, I'm Rimon Chowdhury</h1>
   <h2>Frontend Developer</h2>
 </div>
