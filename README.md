@@ -1,20 +1,26 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/CpLyKtHw/github-header-image-1.png" alt="GitHub Banner Image" />
+  <img src="https://i.ibb.co/CpLyKtH/github-header-image-1.png" alt="GitHub Banner Image" />
 </div>
 
 <div align="center">
   
 # Hi 👋, I'm Rimon Chowdhury  
 
-### 🏗️ MERN Stack Developer 
+### 🚀 MERN Stack Developer 💻  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimonchowdhuryy)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rimonc7)
-[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rimonc7)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+880768885113)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimonc7@gmail.com)
+🟢 **MongoDB** | 🟡 **Express.js** | 🔵 **React.js** | 🟠 **Node.js**  
 
 </div>  
+
+---
+<div align="center">
+
+### 🌐 Connect with Me  
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimonchowdhuryy) | [![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rimonc7) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+880768885113) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimonc7@gmail.com) |
+|---|---|---|---|
+
+</div>
 
 ---
 
