@@ -66,10 +66,9 @@ I am a passionate **MERN Stack Developer** and **SEO enthusiast**. My journey be
 ## 📊 GitHub Stats  
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimonc7&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimonc7&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rimonc7&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimonc7&layout=compact&theme=radical" height="150" alt="Top Languages"/>
 </div>
-
 ---
 
 ## 📌 Pinned Repositories  
