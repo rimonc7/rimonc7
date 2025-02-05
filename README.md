@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# Hi 👋, I'm Rimon Chowdhury  
+# 👋, I'm Rimon Chowdhury  
 
 ### 🚀 MERN Stack Developer 💻  
 
