@@ -1,7 +1,7 @@
 <div id="user-content-toc" align="center">
   <h1>Hi 👋, I'm Rimon Chowdhury</h1>
 </div>
-
+![Header](./your-header-image-name.png)
 <p align="center">
 I'm a Junior Web Developer with a strong coding foundation.<br/>
 I have 7 years of experience as an SEO and Local SEO Specialist, helping businesses boost their online visibility.
