@@ -2,11 +2,16 @@
   <img src="https://i.ibb.co.com/CpLyKtHw/github-header-image-1.png" alt="GitHub Header Image" />
 </div>
 
-# Hi 👋, I'm Rimon Chowdhury
+<div align="center">
+  
+# Hi 👋, I'm Rimon Chowdhury  
 
 ### 🏗️ Junior Web Developer | SEO & Local SEO Specialist  
 
-I have a strong coding foundation and a passion for web development. With 7 years of experience in SEO and Local SEO, I specialize in boosting online visibility for businesses. I'm always eager to explore new technologies and enhance my skills.
+📧 **Email:** [rimonc7@gmail.com](mailto:rimonc7@gmail.com)  
+📱 **WhatsApp:** [Chat with me](https://wa.me/+880768885113)  
+
+</div>  
 
 ---
 
@@ -82,28 +87,10 @@ I have a strong coding foundation and a passion for web development. With 7 year
 🔗 **Live Demo:** [View Project](https://rimonc7.github.io/portfolio-website)  
 🛠️ **Tech Used:** React, Tailwind CSS, JavaScript  
 
-### 2️⃣ **[SEO Dashboard](https://github.com/rimonc7/seo-dashboard)**  
-🔹 A custom-built SEO analytics dashboard for monitoring website performance.  
-🔗 **Live Demo:** [View Project](https://rimonc7.github.io/seo-dashboard)  
-🛠️ **Tech Used:** Next.js, Chart.js, API Integrations  
-
-### 3️⃣ **[Travel Blog Website](https://github.com/rimonc7/travel-blog)**  
+### 2️⃣ **[Travel Blog Website](https://github.com/rimonc7/travel-blog)**  
 🔹 A responsive blog website for travelers to share their experiences.  
 🔗 **Live Demo:** [View Project](https://rimonc7.github.io/travel-blog)  
 🛠️ **Tech Used:** WordPress, HTML, CSS, JavaScript  
-
----
-
-## 📂 Repository README Guidelines  
-
-Each repository includes:  
-✅ A concise project overview  
-✅ A clean project screenshot  
-✅ A list of main technologies used  
-✅ Highlighted core features  
-✅ Dependencies listed  
-✅ A step-by-step guide to running the project locally  
-✅ Live project links and additional resources  
 
 ---
 
