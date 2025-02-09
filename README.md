@@ -67,6 +67,12 @@ I am a passionate **MERN Stack Developer** and **SEO enthusiast**. My journey be
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=rimonc7&show_icons=true&theme=radical&count_private=true" height="150" alt="GitHub Stats" />
+  <p align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=rimonc7&theme=tokyonight" alt="GitHub Streak"/>
+</a>
+</p>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimonc7&layout=compact&theme=radical" height="150" alt="Top Languages"/>
 </div>
 
