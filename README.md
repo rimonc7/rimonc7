@@ -79,24 +79,31 @@ I am a passionate **MERN Stack Developer** and **SEO enthusiast**. My journey be
 
 ## 📌 Pinned Repositories  
 
-### 1️⃣ **[Hostel Management System - DormDish](https://github.com/rimonc7/dormdish-client)**  
+### 1️⃣ **[MealMates - Food Donation Platform](https://mealmeats.web.app/)**  
+A web app that simplifies food donation and management, enabling donors and organizations to contribute and manage donations efficiently.  
+🔗 **Live Site:** [MealMates](https://mealmeats.web.app/)  
+🛠️ **Tech Used:** React, Firebase Auth, Tailwind CSS, Express.js, MongoDB, React Query  
+
+---
+
+### 2️⃣ **[Hostel Management System - DormDish](https://github.com/rimonc7/dormdish-client)**  
 A hostel management system for university dorms, built with the **MERN stack**. Students can log in, review meals, and interact with upcoming meals.  
 🔗 **Live Site:** [DormDish](https://dorm-dish.web.app/)  
 🛠️ **Tech Used:** React, Firebase Auth, Tailwind CSS, Express.js, MongoDB, Node.js, Stripe  
 
 ---
 
-### 2️⃣ **[Movie World](https://github.com/rimonc7/movieworld-client)**  
+### 3️⃣ **[Movie World](https://github.com/rimonc7/movieworld-client)**  
 A **movie collection web app** where users can add, manage, and favorite movies.  
 🔗 **Live Site:** [Movie World](https://movieworld-dea37.web.app/)  
 🛠️ **Tech Used:** React, Firebase Auth, Tailwind CSS, Express.js, MongoDB  
 
 ---
 
-### 3️⃣ **[Bistro Boss - Restaurant Website](https://github.com/rimonc7/bistro-boss-client)**  
+### 4️⃣ **[Bistro Boss - Restaurant Website](https://github.com/rimonc7/bistro-boss-client)**  
 A fully responsive restaurant website with an online menu, reservations, and Stripe payments.  
 🔗 **Live Site:** [Bistro Boss](https://bistro-boss-a95f4.web.app/)  
-🛠️ **Tech Used:** React, Tailwind CSS, MongoDB, Node.js, Express.js, Stripe  
+🛠️ **Tech Used:** React, Tailwind CSS, MongoDB, Node.js, Express.js, Stripe 
 
 ---
 
