@@ -79,7 +79,7 @@ I am a passionate **MERN Stack Developer** and **SEO enthusiast**. My journey be
 
 ## 📌 Pinned Repositories  
 
-### 1️⃣ **[MealMates - Food Donation Platform](https://mealmeats.web.app/)**  
+### 1️⃣ **[MealMates - Food Donation Platform](https://github.com/rimonc7/mealmates-client)**  
 A web app that simplifies food donation and management, enabling donors and organizations to contribute and manage donations efficiently.  
 🔗 **Live Site:** [MealMates](https://mealmeats.web.app/)  
 🛠️ **Tech Used:** React, Firebase Auth, Tailwind CSS, Express.js, MongoDB, React Query  
